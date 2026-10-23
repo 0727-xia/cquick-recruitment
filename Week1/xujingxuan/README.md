@@ -103,6 +103,8 @@ ros2 topic pub --once /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 2.0
 - 在 `Week1/xujingxuan/` 下放入截图与本文档；
 - 提交并 Push，发起 Pull Request，最后在 PR 里 @ 一位学长评审。
 
+**本次完成情况（实测）**：已 Fork 到 `EricXu-jingxuan/cquick-recruitment`，推送提交 `5371490`（10 个文件，仅新增、无删除），并已发起 PR —— **PR #31**（`woailuyao:main` ← `EricXu-jingxuan:main`，状态 open，可合并）。
+
 ## 7. 踩坑记录
 
 1. `. fishros` 不能写成 `sh fishros` —— 用 `sh` 执行不会把环境配进当前 shell。

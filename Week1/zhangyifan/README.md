@@ -89,7 +89,7 @@ clone 自己 Fork 出来的仓库（不是主仓库）：
    git push
    ```
 在自己仓库页面点 Contribute → Open Pull Request，目标为主仓库 `main` 分支。
-PR 链接：<!-- 提交后把链接填在这里 -->
+PR 链接：https://github.com/woailuyao/cquick-recruitment/pull/38
 踩过的坑
 （在Ubuntu中截的照片不知道怎么弄出来，最后只能在windows写完模板后再Ubuntu中的Firefox登录github再导入图片）
 ---

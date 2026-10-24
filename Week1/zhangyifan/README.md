@@ -91,7 +91,7 @@ clone 自己 Fork 出来的仓库（不是主仓库）：
 在自己仓库页面点 Contribute → Open Pull Request，目标为主仓库 `main` 分支。
 PR 链接：<!-- 提交后把链接填在这里 -->
 踩过的坑
-（写真实遇到的，比如 clone 成了主仓库导致 push 403；或者 GitHub 用密码推送报 Authentication failed，改成 Personal Access Token / SSH key 才成功。）
+（在Ubuntu中截的照片不知道怎么弄出来，最后只能在windows写完模板后再Ubuntu中的Firefox登录github再导入图片）
 ---
 附：命令速查
 ```bash

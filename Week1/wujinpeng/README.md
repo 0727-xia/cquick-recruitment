@@ -97,4 +97,5 @@ $ ros2 topic list
 
 ## 任务 3：Git 提交
 
-<第一次走 Fork + PR 流程的感想 / 踩过的坑，自己写两句>
+理解：Fork是复制一份到自己仓库，然后PR是发起请求，将我的改动合并于主仓库  
+坑：push 时报 Connection was reset，一开始不知道是网络问题

@@ -1,13 +1,15 @@
 ## 描述
 
-<!-- 简述你本周完成了哪些任务，遇到什么问题 -->
+完成虚拟机搭建，配置好ros环境，打开小乌龟窗口并成功让小乌龟动起来，第一次尝试fork和PR。
 
 ## 变更内容
 
-<!-- 列出你提交的文件，例如：
-- Week1/zhangsan/01_环境自检.png
-- Week1/zhangsan/README.md
--->
+- Week1/Zengxinyi/01_环境自检.png
+- Week1/Zengxinyi/02_小乌龟.png
+- Week1/Zengxinyi/02_节点列表.png
+- Week1/Zengxinyi/02_话题列表.png
+- Week1/Zengxinyi/README.md
+
 
 ## 自查清单
 

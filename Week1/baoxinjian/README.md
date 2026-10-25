@@ -12,3 +12,9 @@
 1. 一开始访问GitHub超时，借助Watt Toolkit才成功打开仓库
 2. 需要先Fork原仓库，只能在自己Fork后的仓库内新建文件夹上传文件
 3. 文件目录必须放在Week1/baoxinjian下面，不能直接丢在Week1根目录
+![01_桌面截图](01_桌面截图.png)
+![02_ROS_DISTRO](02_ROS_DISTRO.png)
+![03_ros2_help](03_ros2_help.png)
+![04_小乌龟](04_小乌龟.png)
+![05_节点列表](05_节点列表.png)
+![06_话题列表](06_话题列表.png)

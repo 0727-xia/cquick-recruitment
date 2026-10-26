@@ -1,7 +1,7 @@
 # 第 1 周考核 · 姓名
 
-- 姓名：<杨荟立>
-- 完成日期：<2026-10-24>
+- 姓名：杨荟立
+- 完成日期：2026-10-25
 
 ## 任务 1：环境自检
 我在VirtualBox和VMware中启动Ubuntu 22.04.5 LTS，安装并检查 ROS2 Humble。‘printenv ROS_DISTRO’输出为 ‘humble’，‘ros2 --help’ 可以正常执行。

@@ -13,7 +13,7 @@
 
 ## 3. 键盘控制小乌龟移动，生成运动轨迹
 小乌龟成功运动，留下轨迹，仿真任务完成
-![图3]
+![图3]https://github.com/Jiayee-tang/cquick-recruitment/blob/da4aea41ddd6a920907aa2295ec71eb26f7aae22/Week1/%E4%B9%8C%E9%BE%9F%E7%97%95%E8%BF%B9.png
 
 ## 4. 拓展：ros2 node list 查看活跃节点
 ![图4](

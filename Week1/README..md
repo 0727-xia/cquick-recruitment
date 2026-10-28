@@ -13,13 +13,12 @@
 
 ## 3. 键盘控制小乌龟移动，生成运动轨迹
 小乌龟成功运动，留下轨迹，仿真任务完成
-![图3]https://github.com/Jiayee-tang/cquick-recruitment/blob/da4aea41ddd6a920907aa2295ec71eb26f7aae22/Week1/%E4%B9%8C%E9%BE%9F%E7%97%95%E8%BF%B9.png
-
+![图3]
 ## 4. 拓展：ros2 node list 查看活跃节点
-![图4](
+![图4](https://github.com/Jiayee-tang/cquick-recruitment/blob/08b40d7c1d67b5976acde7fda4f89218a5a871a5/Week1/%E8%8A%82%E7%82%B9%E6%9F%A5%E7%9C%8B.png
 
 ## 5. 拓展：ros2 topic list 查看话题列表
-![图5]
+![图5]https://github.com/Jiayee-tang/cquick-recruitment/blob/b37f75998dfa1e2dccf1cb0e15a06bdb495c4a01/Week1/%E8%AF%9D%E9%A2%98%E6%9F%A5%E7%9C%8B.png
 
 本次完成ROS2 Humble环境搭建，成功运行turtlesim小乌龟仿真，实现键盘控制乌龟移动，同时查看节点与话题。
 

@@ -9,7 +9,7 @@
 
 ## 2. 启动turtlesim仿真节点 + teleop键盘控制节点
 同时运行两个节点，准备控制小乌龟
-![图2]
+![图2]https://github.com/Jiayee-tang/cquick-recruitment/blob/08b40d7c1d67b5976acde7fda4f89218a5a871a5/Week1/%E8%8A%82%E7%82%B9%E6%9F%A5%E7%9C%8B.png
 
 ## 3. 键盘控制小乌龟移动，生成运动轨迹
 小乌龟成功运动，留下轨迹，仿真任务完成
